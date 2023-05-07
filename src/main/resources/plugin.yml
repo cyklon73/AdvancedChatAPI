@@ -1,0 +1,7 @@
+name: AdvancedChatAPI
+version: '${project.version}'
+main: de.cyklon.advancedchatapi.AdvancedChatAPI
+
+commands:
+  base-cmd:
+
